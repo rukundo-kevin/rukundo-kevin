@@ -1,7 +1,8 @@
  <!-- Hi there! Feel free to make this your own but don't dare use my info -->
   
 <div align="center">
-  <a href="https://rukundo-kevin.github.io><img src="kevin rukundo.png" alt="Kevin's Header">sadfsafsda</a>
+  <a href="https://stephenajulu.com"><img src="images/stephenajulu header 2.png" alt="Ajulu's Header"></a>
+
 
   <br>
   
