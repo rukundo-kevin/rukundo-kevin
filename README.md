@@ -6,7 +6,7 @@
 
   <br>
   
-<h3>Hi there! 👋🤓<br>I'm Kevin Rukundo <br> Web Developer, <br>Entrepreneur, Designer</h3>
+<h3>Now That You Know Me ! 👋🤓<br>I'm also a:<br> Web Developer, <br>Entrepreneur, Designer</h3>
  <a href="https://rukundo-kevin.github.io">Website</a> • <a href="https://www.twitter.com/CtzenKevin">Twitter</a> • <a href="www.instagram.com/instagram">Instagram</a> </h4>
 
 <hr width="50%" style="height:5px;">
