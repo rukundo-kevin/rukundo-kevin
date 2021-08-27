@@ -3,7 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukundo-kevin&langs_count=3&&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align="center">
   <a href="https://rukundo-kevin.github.io"><img src="kevin rukundo2.PNG" alt="kevin's Header"></a>
   <br>
 👋 😲
