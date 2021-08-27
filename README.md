@@ -1,6 +1,6 @@
  <!-- Hi there! Feel free to make this your own but don't dare use my info -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukundo-kevin&count_private=true](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
-)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin-rukundo&&count_private=true&&show_icons=true&theme=vue-dark)
+
 <div align="center">
   <a href="https://rukundo-kevin.github.io"><img src="kevin rukundo2.PNG" alt="kevin's Header"></a>
   <br>
