@@ -11,3 +11,5 @@
  <a href="https://www.instagram.com/kevin_4armaci/" target="_blank">Instagram</a> </h4>
 
 <hr width="50%" style="height:5px;">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
