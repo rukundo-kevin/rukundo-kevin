@@ -6,6 +6,6 @@
 👋 😲
 <h3>Now That You Know Me ! 
  <br>I'm also a: <br>Entrepreneur, Designer, and a like movies</h3>
- <a href="https://rukundo-kevin.github.io">Website</a> • <a href="https://www.twitter.com/CtzenKevin">Twitter</a> • <a href="www.instagram.com/instagram">Instagram</a> </h4>
+ <a href="https://rukundo-kevin.github.io">Website</a> • <a href="https://www.twitter.com/CtzenKevin">Twitter</a> • <a href="https://www.instagram.com/kevin_4armaci/">Instagram</a> </h4>
 
 <hr width="50%" style="height:5px;">
