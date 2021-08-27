@@ -5,8 +5,8 @@
 
   <a href="https://rukundo-kevin.github.io"><img src="kevin rukundo2.PNG" alt="kevin's Header"></a>
   <br>
+  <div align="center">
 👋 😲
-<div align="center">
 <h3>Now That You Know Me ! 
  <br>I'm also a: <br>Entrepreneur, Designer, and a like movies</h3>
  <a href="https://rukundo-kevin.github.io" target="_blank">Website</a> • 
