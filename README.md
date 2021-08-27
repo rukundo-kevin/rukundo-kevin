@@ -1,6 +1,6 @@
  <!-- Hi there! Feel free to make this your own but don't dare use my info -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukundo-kevin&&count_private=true&&show_icons=true&theme=vue-dark&&hide_rank=true&&custom_title=Rukundo%Kevin(4armaci)%Stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukundo-kevin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukundo-kevin&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
