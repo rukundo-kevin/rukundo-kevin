@@ -7,8 +7,6 @@
    <a href="https://www.instagram.com/rukundokev.in/" target="_blank">Instagram</a> </h4>
 <div>
  <hr style="height:30%">
-  <a href="https://rukundo-kevin.github.io">
-   <img src="kevin.PNG" alt="kevin's Header"></a>
-  <br>
+
  
 
