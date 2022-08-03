@@ -10,6 +10,7 @@ const rukundo = new rukundo({
     website: "https://www.rukundokevin.codes",
     linkedIn: "https://www.linkedin.com/in/rukundokevin",
   },
+  favoriteMovie: => { return "The Shawshank Redemption" }
 });
 ```
  <div style="align:center">
