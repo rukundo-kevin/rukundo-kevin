@@ -2,7 +2,7 @@
    [![Linkedin Badge](https://img.shields.io/badge/-Rukundo%20Kevin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rukundokevin/)](https://www.linkedin.com/in/rukundokevin/)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rukundo-kevin&&count_private=true&&show_icons=true&theme=vue-dark&&hide_rank=true&&custom_title=Rukundo%%Stats&&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukundo-kevin&langs_count=3&&show_icons=false&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rukundo-kevin&theme=merko)](https://git.io/streak-stats)
 
 ```ts
 const rukundo = new rukundo({
