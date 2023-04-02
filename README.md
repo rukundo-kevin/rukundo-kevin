@@ -10,7 +10,7 @@ const rukundo = new rukundo({
   location: "Rwanda",
   socials: {
     twitter: "https://twitter.com/rukundokevin_", 
-    website: "https://www.rukundokevin.codes",
+    website: "https://www.rukundokevin.tech",
     linkedIn: "https://www.linkedin.com/in/rukundokevin",
   },
   favoriteMovie: => { return "The Shawshank Redemption" }
