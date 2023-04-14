@@ -17,9 +17,9 @@ const rukundo = new rukundo({
 });
 ```
  <div style="align:center">
-   <a href="https://www.rukundokevin.codes" target="_blank">Website</a> • 
+   <a href="https://www.rukundokevin.tech" target="_blank">Website</a> • 
    <a href="https://www.twitter.com/rukundokevin_" target="_blank"><i class="fab fa-twitter"></i> Twitter</a> •
-   <a href="https://www.instagram.com/rukundokev.in/" target="_blank">Instagram</a> </h4>
+   <a href="https://www.instagram.com/rukundo__kevin/" target="_blank">Instagram</a> </h4>
 
 <div>
  <hr style="height:30%">
