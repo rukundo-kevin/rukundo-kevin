@@ -5,16 +5,18 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rukundo-kevin&theme=merko)](https://git.io/streak-stats)
 
 ```ts
-const rukundo = new rukundo({
-  skills: ["TypeScript", "React", "NodeJS", "SQL", "NoSQL", "PHP"], // and a few more  :(
+const kevin: Rukundo = {
+  skills: ["TypeScript", "React", "NodeJS", "SQL", "NoSQL", "PHP"],
   location: "Rwanda",
   socials: {
-    twitter: "https://twitter.com/rukundokevin_", 
+    twitter: "https://twitter.com/rukundokevin_",
     website: "https://www.rukundokevin.tech",
     linkedIn: "https://www.linkedin.com/in/rukundokevin",
   },
-  favoriteMovie: => { return "The Shawshank Redemption" }
-});
+  favoriteMovie: () => {
+    return "The Shawshank Redemption";
+  },
+};
 ```
  <div style="align:center">
    <a href="https://www.rukundokevin.tech" target="_blank">Website</a> • 
