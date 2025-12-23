@@ -6,11 +6,11 @@
 
 ```ts
 const kevin: Rukundo = {
-  skills: ["TypeScript", "React", "NodeJS", "SQL", "NoSQL", "PHP"],
+  skills: ["TypeScript", "React", "AWS", "NestJS", "Java", "PHP"],
   location: "Rwanda",
   socials: {
     twitter: "https://twitter.com/rukundokevin_",
-    website: "https://www.rukundokevin.tech",
+    website: "https://www.rukundokevin.me",
     linkedIn: "https://www.linkedin.com/in/rukundokevin",
   },
   favoriteMovie: () => {
@@ -19,7 +19,7 @@ const kevin: Rukundo = {
 };
 ```
  <div style="align:center">
-   <a href="https://www.rukundokevin.tech" target="_blank">Website</a> • 
+   <a href="https://www.rukundokevin.me" target="_blank">Website</a> • 
    <a href="https://www.twitter.com/rukundokevin_" target="_blank"><i class="fab fa-twitter"></i> Twitter</a> •
    <a href="https://www.instagram.com/rukundo__kevin/" target="_blank">Instagram</a> </h4>
 
